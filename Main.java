@@ -5,7 +5,7 @@
 
 /**
  *
- * @author sarth
+ * 
  */
 public class Main {
 
