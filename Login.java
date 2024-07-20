@@ -5,7 +5,7 @@
 
 /**
  *
- * @author sarth
+ *
  */
 import java.sql.*;
 import javax.swing.JOptionPane;
