@@ -5,7 +5,7 @@
 
 /**
  *
- * @author sarth
+ * 
  */
 public class student_details extends javax.swing.JFrame {
 
