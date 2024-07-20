@@ -5,7 +5,7 @@
 
 /**
  *
- * @author sarth
+ * 
  */
 import java.awt.*;
 import java.sql.*;
